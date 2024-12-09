@@ -36,7 +36,7 @@ This repository contains a full-stack TypeScript project with a Next.js frontend
    yarn docker:up
    ```
 
-   This command will start a PostgreSQL instance and Adminer for database management. The database will be initialized with the script in `init.sql`.
+   This command will start a MongoDB instance and MongoDBViewer for database management. The database will be initialized with the script in `init.js`.
 
 #### Running the Backend
 
